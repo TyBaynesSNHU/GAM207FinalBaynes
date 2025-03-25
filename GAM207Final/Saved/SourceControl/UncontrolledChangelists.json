@@ -6,13 +6,24 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Map/TestLevel.umap",
-				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerCharacter.uasset",
 				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerCharacter_BP.uasset",
 				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerControls_BP.uasset",
 				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/ArenaMode.uasset",
 				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerProj_BP.uasset",
 				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/Proj_Mat.uasset",
-				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Map/Cube_Mesh.uasset"
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Map/Cube_Mesh.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AICont_BP.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AI_BT.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/Tasks/Wander.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AI_BB.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AI_Char_BP.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AI_Proj.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/Tasks/Focus.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/Tasks/MoveToLocation.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/Tasks/Shoot.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/Tasks/StopShooting.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/Tasks/Evade.uasset",
+				"E:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerCharacter.uasset"
 			]
 		}
 	]
