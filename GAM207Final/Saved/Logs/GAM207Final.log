@@ -26528,3 +26528,128 @@ Sampler Limit: 32
 [2025.04.15-18.58.00:913][ 58]LogSavePackage: Moving 'D:/School/2025 C2/GAM207/Final/GAM207Final/Saved/Box_C5649F95_Auto22BD216984DBE849041C43D90A6732BE8.tmp' to 'D:/School/2025 C2/GAM207/Final/GAM207Final/Saved/Autosaves/Game/Map/_GENERATED/nexxy/Box_C5649F95_Auto2.uasset'
 [2025.04.15-18.58.00:913][ 58]LogFileHelpers: Auto-saving content packages took 0.214
 [2025.04.15-18.58.38:768][173]LogDerivedDataCache: C:/Users/nexxy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.15-19.03.35:971][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1194847.500000
+[2025.04.15-19.03.36:971][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-19.03.36:971][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1194848.250000, Update Interval: 304.671173
+[2025.04.15-19.08.25:946][967]LogSlate: Window 'Box_C5649F95' being destroyed
+[2025.04.15-19.08.25:953][967]LogSlate: Window 'Box_C5649F95' being destroyed
+[2025.04.15-19.08.25:956][967]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.25:956][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.26:147][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.15-19.08.26:147][967]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.26:147][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.26:390][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.15-19.08.26:390][967]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.26:390][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.26:542][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.15-19.08.26:542][967]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.26:542][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.26:731][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.15-19.08.26:731][967]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.26:731][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.26:850][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.15-19.08.26:850][967]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.26:850][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.26:942][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.15-19.08.26:942][967]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.26:942][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.27:042][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.15-19.08.27:042][967]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.27:042][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.27:228][967]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.04.15-19.08.27:228][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.15-19.08.27:361][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.15-19.08.28:060][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.04.15-19.08.28:069][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-19.08.28:171][  1]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_Proj] ([2] browsable assets)...
+[2025.04.15-19.08.28:171][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_Proj]
+[2025.04.15-19.08.28:171][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_Proj" FILE="D:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AI_Proj.uasset" SILENT=true
+[2025.04.15-19.08.28:181][  1]LogSavePackage: Moving output files for package: /Game/AI/AI_Proj
+[2025.04.15-19.08.28:181][  1]LogSavePackage: Moving 'D:/School/2025 C2/GAM207/Final/GAM207Final/Saved/AI_ProjDAA0463A4307D61FFAFD41A936F93059.tmp' to 'D:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AI_Proj.uasset'
+[2025.04.15-19.08.28:182][  1]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/PlayerProj_BP] ([2] browsable assets)...
+[2025.04.15-19.08.28:182][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PlayerProj_BP]
+[2025.04.15-19.08.28:182][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerProj_BP" FILE="D:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerProj_BP.uasset" SILENT=true
+[2025.04.15-19.08.28:186][  1]LogSavePackage: Moving output files for package: /Game/Player/PlayerProj_BP
+[2025.04.15-19.08.28:188][  1]LogSavePackage: Moving 'D:/School/2025 C2/GAM207/Final/GAM207Final/Saved/PlayerProj_BP61BA84B54D39E99D8AB30FA5F01E798C.tmp' to 'D:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerProj_BP.uasset'
+[2025.04.15-19.08.28:188][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/_GENERATED/nexxy/Box_C5649F95] ([1] browsable assets)...
+[2025.04.15-19.08.28:188][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/_GENERATED/nexxy/Box_C5649F95]
+[2025.04.15-19.08.28:188][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/_GENERATED/nexxy/Box_C5649F95" FILE="D:/School/2025 C2/GAM207/Final/GAM207Final/Content/Map/_GENERATED/nexxy/Box_C5649F95.uasset" SILENT=true
+[2025.04.15-19.08.28:190][  1]LogSavePackage: Moving output files for package: /Game/Map/_GENERATED/nexxy/Box_C5649F95
+[2025.04.15-19.08.28:190][  1]LogSavePackage: Moving 'D:/School/2025 C2/GAM207/Final/GAM207Final/Saved/Box_C5649F9594EF3C7D4E326C9BE69F3CB17053A7C3.tmp' to 'D:/School/2025 C2/GAM207/Final/GAM207Final/Content/Map/_GENERATED/nexxy/Box_C5649F95.uasset'
+[2025.04.15-19.08.28:204][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.459 ms (total: 52.0 sec)
+[2025.04.15-19.08.28:392][  1]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.15-19.08.28:392][  1]LogContentValidation: Enabled validators:
+[2025.04.15-19.08.28:392][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-19.08.28:392][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-19.08.28:392][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-19.08.28:392][  1]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-19.08.28:392][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-19.08.28:392][  1]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-19.08.28:392][  1]AssetCheck: /Game/AI/AI_Proj Validating asset
+[2025.04.15-19.08.28:392][  1]AssetCheck: /Game/Player/PlayerProj_BP Validating asset
+[2025.04.15-19.08.28:392][  1]AssetCheck: /Game/Map/_GENERATED/nexxy/Box_C5649F95 Validating asset
+[2025.04.15-19.08.33:392][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.15-19.09.34:417][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1195238.750000
+[2025.04.15-19.09.34:553][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.15-19.09.34:553][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1195238.750000, Update Interval: 352.215942
+[2025.04.15-19.09.35:990][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/PlayerCharacter_BP.PlayerCharacter_BP
+[2025.04.15-19.09.35:991][791]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.04.15-19.09.49:649][511]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.10.00:727][ 31]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.10.08:410][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.10.08:431][391]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.10.13:387][615]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.10.13:409][615]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.10.38:770][782]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.10.38:794][782]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.10.45:598][118]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.10.45:618][118]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.10.48:258][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.15-19.10.48:283][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-19.10.48:376][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/PlayerCharacter_BP] ([2] browsable assets)...
+[2025.04.15-19.10.48:409][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/PlayerCharacter_BP.PlayerCharacter_BP]
+[2025.04.15-19.10.48:409][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PlayerCharacter_BP]
+[2025.04.15-19.10.48:409][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCharacter_BP" FILE="D:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerCharacter_BP.uasset" SILENT=true
+[2025.04.15-19.10.48:429][256]LogSavePackage: Moving output files for package: /Game/Player/PlayerCharacter_BP
+[2025.04.15-19.10.48:429][256]LogSavePackage: Moving 'D:/School/2025 C2/GAM207/Final/GAM207Final/Saved/PlayerCharacter_BP642EB05C48739348F3E850B26A1ACEA8.tmp' to 'D:/School/2025 C2/GAM207/Final/GAM207Final/Content/Player/PlayerCharacter_BP.uasset'
+[2025.04.15-19.10.48:444][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.535 ms (total: 52.2 sec)
+[2025.04.15-19.10.48:594][256]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-19.10.48:594][256]LogContentValidation: Enabled validators:
+[2025.04.15-19.10.48:594][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-19.10.48:594][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-19.10.48:594][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-19.10.48:594][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-19.10.48:594][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-19.10.48:594][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-19.10.48:594][256]AssetCheck: /Game/Player/PlayerCharacter_BP Validating asset
+[2025.04.15-19.10.57:262][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/AI_Char_BP.AI_Char_BP
+[2025.04.15-19.10.57:263][693]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.04.15-19.11.03:803][994]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.11.03:836][994]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.11.19:326][840]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.11.19:358][840]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.11.22:678][  7]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.11.22:708][  7]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.11.40:748][918]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.11.44:099][ 82]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.11.44:134][ 82]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.11.51:438][485]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2025.04.15-19.11.51:472][485]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.15-19.11.54:313][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.04.15-19.11.54:337][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.15-19.11.54:439][639]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/AI_Char_BP] ([2] browsable assets)...
+[2025.04.15-19.11.54:472][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/AI_Char_BP.AI_Char_BP]
+[2025.04.15-19.11.54:472][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/AI_Char_BP]
+[2025.04.15-19.11.54:472][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AI_Char_BP" FILE="D:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AI_Char_BP.uasset" SILENT=true
+[2025.04.15-19.11.54:490][639]LogSavePackage: Moving output files for package: /Game/AI/AI_Char_BP
+[2025.04.15-19.11.54:490][639]LogSavePackage: Moving 'D:/School/2025 C2/GAM207/Final/GAM207Final/Saved/AI_Char_BPD3E9799F43A6BE2E9894F8B9E72B3427.tmp' to 'D:/School/2025 C2/GAM207/Final/GAM207Final/Content/AI/AI_Char_BP.uasset'
+[2025.04.15-19.11.54:504][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.553 ms (total: 52.4 sec)
+[2025.04.15-19.11.54:645][639]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.15-19.11.54:645][639]LogContentValidation: Enabled validators:
+[2025.04.15-19.11.54:645][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.15-19.11.54:645][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.15-19.11.54:645][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.15-19.11.54:645][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.15-19.11.54:645][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.15-19.11.54:645][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.15-19.11.54:645][639]AssetCheck: /Game/AI/AI_Char_BP Validating asset
